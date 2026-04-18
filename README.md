@@ -12,6 +12,8 @@ Open files with Quick Look. (by double click)
 
 For those apps where you think the QuickLook preview is better than the app.
 
+![screencapture](img/screen.gif)
+
 
 Installation
 ------------
