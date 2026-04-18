@@ -8,7 +8,7 @@
 Open With QuickLook
 ===================
 
-Open files (double click) with QuickLook.
+Open files with Quick Look. (by double click)
 
 For those apps where you think the QuickLook preview is better than the app.
 
