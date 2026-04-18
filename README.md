@@ -5,8 +5,8 @@
 <img src="img/icon.svg" width="180" height="180">
 
 
-Open in QuickLook
-=================
+Open With QuickLook
+===================
 
 Open files (double click) with QuickLook.
 
@@ -32,7 +32,7 @@ Features
 The app is just a wrapper around `qlmanage -p`.
 Nothing more.
 
-- 30 lines of code
+- 60 lines of code
 - Small app size (150 Kb)
 - Written in Objective-C to allow __very old__ macOS versions.
 

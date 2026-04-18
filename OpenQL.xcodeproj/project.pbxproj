@@ -251,7 +251,7 @@
 		54F017832F93985E0063A895 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CURRENT_PROJECT_VERSION = 170;
+				CURRENT_PROJECT_VERSION = 221;
 				DEVELOPMENT_TEAM = UY657LKNHJ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = src/Info.plist;
@@ -273,7 +273,7 @@
 		54F017842F93985E0063A895 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CURRENT_PROJECT_VERSION = 170;
+				CURRENT_PROJECT_VERSION = 221;
 				DEVELOPMENT_TEAM = UY657LKNHJ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = src/Info.plist;
