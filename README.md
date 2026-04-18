@@ -26,6 +26,17 @@ xattr -d com.apple.quarantine "/Applications/Open in QuickLook.app"
 
 or download from [releases](https://github.com/relikd/OpenQL/releases/latest).
 
+Features
+--------
+
+The app is just a wrapper around `qlmanage -p`.
+Nothing more.
+
+- 30 lines of code
+- Small app size (150 Kb)
+- Written in Objective-C to allow __very old__ macOS versions.
+
+
 
 Usage
 -----
@@ -38,14 +49,3 @@ You can set this app to open any kind of file.
 - Press button "Change All…"
 
 Now you can double-click that file-type and it will open the QuickLook preview.
-
-
-What it does
-------------
-
-The app is just a wrapper around `qlmanage -p`.
-Nothing more.
-30 lines of code.
-
-Written in Objective-C to allow __very old__ macOS versions.
-
