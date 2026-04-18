@@ -22,8 +22,8 @@ Requires macOS High Sierra (10.13) or higher.
 (you can probably compile on 10.6).
 
 ```sh
-brew install --cask relikd/tap/OpenQL
-xattr -d com.apple.quarantine "/Applications/Open in QuickLook.app"
+brew install --cask relikd/tap/open-with-quicklook
+xattr -d com.apple.quarantine "/Applications/Open With Quick Look.app"
 ```
 
 or download from [releases](https://github.com/relikd/OpenQL/releases/latest).
